@@ -1,0 +1,13 @@
+{
+    "Immune_general": {
+        "best_params": {
+            "hidden_dim": 128,
+            "nhead": 1,
+            "num_layers": 1,
+            "latent_dim": 32,
+            "lr": 0.0003,
+            "weight_decay": 1e-05
+        },
+        "best_val_loss": 0.03977019386955454
+    }
+}

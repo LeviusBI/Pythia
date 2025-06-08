@@ -1,0 +1,13 @@
+{
+    "Dendritic_cells": {
+        "best_params": {
+            "hidden_dim": 128,
+            "nhead": 2,
+            "num_layers": 1,
+            "latent_dim": 128,
+            "lr": 0.001,
+            "weight_decay": 0.0001
+        },
+        "best_val_loss": 0.04668021918852118
+    }
+}

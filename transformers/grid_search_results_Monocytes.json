@@ -1,0 +1,13 @@
+{
+    "Monocytes": {
+        "best_params": {
+            "hidden_dim": 512,
+            "nhead": 2,
+            "num_layers": 1,
+            "latent_dim": 512,
+            "lr": 0.0003,
+            "weight_decay": 1e-05
+        },
+        "best_val_loss": 0.025587623278740087
+    }
+}

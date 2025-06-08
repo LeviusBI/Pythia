@@ -1,0 +1,13 @@
+{
+    "Non_plasma_B_cells": {
+        "best_params": {
+            "hidden_dim": 512,
+            "nhead": 1,
+            "num_layers": 1,
+            "latent_dim": 128,
+            "lr": 0.0003,
+            "weight_decay": 0.0001
+        },
+        "best_val_loss": 0.05414180782965467
+    }
+}
